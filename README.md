@@ -26,6 +26,6 @@ where every item in the list is the sum of itself and every previous item.
 
 If the price of the share is 10$ in month 1, 5$ in month 2, 15$ in month 3 and 10$ in month 4 we multiply these values with the corresponding values in the compounded sum list:
 
-[50, 150, 183, 233] * [10, 5, 15,1 0] = [500, 750, 2745, 2330]. 
+[50, 150, 183, 233] * [10, 5, 15,10] = [500, 750, 2745, 2330]. 
 
 The product corresponds to the value of our investment at every month. The last month we will have 2330$ and have invested a total of amount of 2000$. 
