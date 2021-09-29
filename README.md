@@ -14,7 +14,7 @@ First, two different lists are made:
 - The second list is the compounded sum of all share purchases done at every point in time based on the first list.
  
 To better explain this, here is an example:
-Given the investment amount 500$ we buy 50 shares in month 1, 40 shares in month 2, 50 shares in month 3 and 45 shares in month 4, this will yield the list:
+Given the investment amount 500$ we buy 50 shares in month 1, 100 shares in month 2, 33 shares in month 3 and 50 shares in month 4, this could be expressed in a list:
 [50,100,33,50]
 The compounded sum of this list will therefore be:
 [50,150,183,233]
