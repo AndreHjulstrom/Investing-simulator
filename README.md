@@ -28,4 +28,10 @@ If the price of the share is 10$ in month 1, 5$ in month 2, 15$ in month 3 and 1
 
 [50, 150, 183, 233] * [10, 5, 15,10] = [500, 750, 2745, 2330]. 
 
-The product corresponds to the value of our investment at every month. The last month we will have 2330$ and have invested a total of amount of 2000$. 
+The product corresponds to the value of our investment at every month.
+
+The total amount invested each month is represented by the list: 
+
+[500, 1000, 1500, 2000]
+
+The last month we will have 2330$ and have invested a total of amount of 2000$. 
