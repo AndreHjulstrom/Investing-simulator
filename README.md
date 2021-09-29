@@ -16,10 +16,10 @@ First, two different lists are made:
 To better explain this, here is an example:
 Given the investment amount 500$ we buy
 
-50 shares in month 1
-100 shares in month 2
-33 shares in month 3 
-50 shares in month 4
+- 50 shares in month 1
+- 100 shares in month 2
+- 33 shares in month 3 
+- 50 shares in month 4
 
 This could be expressed in a list:
 
@@ -33,10 +33,10 @@ where every item in the list is the sum of itself and every previous item.
 
 If the price of the share is:
 
-10$ in month 1
-5$ in month 2
-15$ in month 3 
-10$ in month 4 
+- 10$ in month 1
+- 5$ in month 2
+- 15$ in month 3 
+- 10$ in month 4 
 
 we multiply these values with the corresponding values in the compounded sum list:
 
