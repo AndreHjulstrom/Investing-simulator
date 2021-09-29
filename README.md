@@ -6,6 +6,8 @@ The program is a simulation of a "buy and hold" strategy, in which the user prov
 - The amount of money invested each time a purchase is made
 - How often a purchase is made, defined through a regular interval.
 
+(NOTE: the variable num_times represents the investment frequency, the number assigned to it is the amount of days (excluding weekends) between every investment. 22 roughly corresponds to once in every month, although I found that 21 gave better results in terms of yielding dates about a month apart from each other)
+
 Given these pieces of information, the program calculates how much profit (or deficit) the investment strategy would yield over the duration of the investment period in the following manner:
 
 
