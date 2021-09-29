@@ -49,3 +49,6 @@ The total amount invested each month is represented by the list:
 [500, 1000, 1500, 2000]
 
 The last month we will have 2330$ and have invested a total of amount of 2000$. 
+
+Lastly, the value of the investment and the total investment contributions are visualized in plots.
+This program with above mentioned methods can be further used to for example, study which investment frequencies are most profitable given a set amount of money available.
